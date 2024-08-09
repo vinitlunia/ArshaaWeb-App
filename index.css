@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.port{
+    cursor: pointer;
+    overflow: hidden;
+}
+.port img{
+    transition: all 0.3s;
+    border-radius: 10px;
+
+}
+
+.port img:hover{
+    transform: scale(1.3);
+}
